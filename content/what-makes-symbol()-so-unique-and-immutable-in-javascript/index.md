@@ -3,7 +3,7 @@ title: "What makes Symbol(👑) so unique and immutable in JavaScript? 🐒"
 description: "👔First meeting with the newly created data type \"Symbol\"."
 date: "2019-06-29T11:01:02.973Z"
 categories: []
-published: false
+published: true
 ---
 
   
